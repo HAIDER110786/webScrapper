@@ -1,0 +1,14 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "This is a practice web scrapper app using node js and puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
